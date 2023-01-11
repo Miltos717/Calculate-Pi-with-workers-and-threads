@@ -39,7 +39,7 @@ public class MultithreadedSumMasterTCP {
 		
 		// we print the final result
 		 System.out.println("the result for Server is "+n.sumAll);
-		 n.printResult(); 
+		//n.printResult(); 
 		 	
 	}
 }
